@@ -1,0 +1,17 @@
+Introduction
+This C++ program is designed to perform four basic arithmetic operations:
+
+Addition
+Subtraction
+Multiplication
+Division
+The program prompts the user to input two numbers for each operation and then performs the respective operation. Finally, it displays the results to the user.
+
+Program Overview
+Variables:
+The program uses integer variables for the operations that involve whole numbers. For division, a floating-point variable is used to allow decimal results.
+
+Integers: Used for addition, subtraction, and multiplication.
+Float: Used for division to preserve the decimal part of the result.
+Input and Output:
+The program uses the cin command to receive user input and the cout command to display the results. It prompts the user for input, performs the arithmetic operations, and displays the results to the screen.
